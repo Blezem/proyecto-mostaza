@@ -1,0 +1,40 @@
+
+[ 
+    {
+        "id": 1 ,
+        "latitud": -247329,
+        "longitud": -65.4096,
+        "Direccion": "Alberdi 223"
+    },
+    {
+        "id":2,
+        "latitud": -24.7725,
+        "longitud": -65.4133,
+        "Direccion":"Av Sarmiento 1061"
+    },
+    {
+        "id":3,
+        "latitud": -247811,
+        "longitud": -65.4036,
+        "Direccion": "Bicentenario de la batalla de Salta"
+    },
+    {
+        "id":4,
+        "latitud":-24.8391,
+        "longitud": -65.4309,
+        "Direccion": "Av tavella"
+    },
+    {
+        "id":5,
+        "latitud":-24.7719,
+        "longitud":-65.4159,
+        "Direccion": "20 de febrero"
+
+    },
+    {
+        "id":6,
+        "latitud":-24.185,
+        "longitud":-65.301,
+        "Direccion":"Gral Belgrano Jujuy"
+    }
+]

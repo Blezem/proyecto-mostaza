@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Mostaza Alberdi",
+        "imagen": "image_1.png",
+        "id_ubicacion": 1
+    },
+    {
+        "nombre":"Mostaza 20 de febrero",
+        "Imagen":"image_2.png",
+        "id_ubicacion": 3
+    },
+    {
+        "nombre":"Mostaza  Alto noa",
+        "imagen":"image_3.png",
+        "id_ubicacion": 4
+    },
+    {
+        "nombre":"Mostaza  Portal Shopping",
+        "imagen":"image_4.png",
+        "id_ubicacion":5
+    },
+    {
+        "Nombre":"Mostaza Hiper Libertad",
+        "Imagen":"image_5.png",
+        "id_ubicacion": 6
+    }
+]
